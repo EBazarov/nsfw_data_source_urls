@@ -13,7 +13,7 @@ In folder `raw_data` you will find different `txt` files each of them contains l
 
 - **159** different categories
 - in total **1 589 331** URLs
-- after downloading and cleaning it's possible to have ** ~ 500GB ** or in other words ** ~ 1 300 000 ** of NSFW images
+- after downloading and cleaning it's possible to have ~ **500GB** or in other words ~ **1 300 000** of NSFW images
 
 |                          file name                           | number of URLs |
 |--------------------------------------------------------------|----------------|
