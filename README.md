@@ -11,9 +11,9 @@ This work inspired by [nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_da
 
 In folder `raw_data` you will find different `txt` files each of them contains list of URLs, here some stats for this set:
 
-- *159* different categories
-- in total *1 589 331* URLs
-- after downloading and cleaning it's possible to have *~ 500GB* or in other words *~ 1 300 000* of NSFW images
+- **159** different categories
+- in total **1 589 331** URLs
+- after downloading and cleaning it's possible to have ** ~ 500GB ** or in other words ** ~ 1 300 000 ** of NSFW images
 
 |                          file name                           | number of URLs |
 |--------------------------------------------------------------|----------------|
