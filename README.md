@@ -11,23 +11,23 @@ This work inspired by [nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_da
 
 In folder `raw_data` you will find different `txt` files each of them contains list of URLs, here some stats for this set:
 
-- **159** different categories
+- **167** different categories
 - in total **1 589 331** URLs
 - after downloading and cleaning it's possible to have ~ **500GB** or in other words ~ **1 300 000** of NSFW images
 
 |                          file name                           | number of URLs |
 |--------------------------------------------------------------|----------------|
-| urls_age_college.txt                                         |      2949      |
-| urls_age_mature.txt                                          |      5942      |
-| urls_age_milf.txt                                            |      8503      |
-| urls_age_teen.txt                                            |      5389      |
-| urls_amateur.txt                                             |     13033      |
-| urls_amateur_self-shots.txt                                  |     10306      |
-| urls_appearance.txt                                          |      2734      |
-| urls_appearance_appearance-modification.txt                  |      3795      |
-| urls_appearance_appearance-modification_piercings.txt        |      1339      |
-| urls_appearance_appearance-modification_tattoos.txt          |      1983      |
-| urls_appearance_clothing.txt                                 |     24924      |
+| urls_age_college.txt                                         |      2396      |
+| urls_age_mature.txt                                          |      5556      |
+| urls_age_milf.txt                                            |      7144      |
+| urls_age_teen.txt                                            |      4695      |
+| urls_amateur.txt                                             |     10 894     |
+| urls_amateur_self-shots.txt                                  |      8894      |
+| urls_appearance.txt                                          |      2550      |
+| urls_appearance_appearance-modification.txt                  |      3602      |
+| urls_appearance_appearance-modification_piercings.txt        |      1111      |
+| urls_appearance_appearance-modification_tattoos.txt          |      1775      |
+| urls_appearance_clothing.txt                                 |     22 611     |
 | urls_appearance_clothing_bodyparts-through-clothes.txt       |      6691      |
 | urls_appearance_clothing_bottomless.txt                      |      2390      |
 | urls_appearance_clothing_clothed-naked-pair.txt              |      1274      |
